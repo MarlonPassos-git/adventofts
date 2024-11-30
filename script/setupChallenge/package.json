@@ -1,0 +1,25 @@
+{
+  "name": "setup-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "inquirer": "^12.1.0",
+    "puppeteer": "^23.9.0",
+    "turndown": "^7.2.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/turndown": "^5.0.5",
+    "@types/yargs": "^17.0.33"
+  }
+}
